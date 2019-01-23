@@ -1,5 +1,7 @@
+html,
 body {
   margin: 0;
   padding: 0;
-  font-family: sans-serif;
+  background: linear-gradient(#08090d, #03091f);
+  background-size: auto 100vh;
 }
